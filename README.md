@@ -1,4 +1,4 @@
- #npm integration with in-toto
+ npm integration with in-toto
                                    
                                    
                                    Instructions:
